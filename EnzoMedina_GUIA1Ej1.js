@@ -13,4 +13,5 @@ function conection (dispositivos,tipo){
 
 let ej1 = conection(6,"simplex")
 let ej2 = conection(6,"duplex")
+let ejemplo3 = conection(4,"duplex")
 
